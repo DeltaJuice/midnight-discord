@@ -4,7 +4,7 @@
 	/* main accent color (mentions, folder icons, unread indicators) */
 	--accent-color: hsl(190, 60%, 50%);
 	/* darker accent color (background of any accent items with text) */
-	--accent-background: hsl(190, 60%, 40%);
+	--accent-background: hsl(220, 41%, 90%);
 	/* even darker accent color (background of accent buttons when hover) */
 	--accent-background-2: hsl(190, 60%, 30%);
 	/* even darker accent color (background of accent buttons when clicked) */
@@ -16,7 +16,7 @@
 	/* bright text for colored buttons */
 	--bright-text: hsl(220, 40%, 90%);
 	/* header text for headers and certain text */
-	--header-text: hsl(220, 30%, 70%);
+	--header-text: hsl(231, 33%, 95%);
 	/* main text color (messages, titles, unread text/indicators) */
 	--primary-text: hsl(220, 15%, 60%);
 	/* secondary text color (channels, descriptions, buttons) */
